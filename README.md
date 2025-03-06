@@ -17,7 +17,7 @@ You can reach me at: **nhlamulosidinile@gmail.com**
 
 # 😎 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nhlamulosidinile)
 
 ## 🛠 Technologies and Tools
 
